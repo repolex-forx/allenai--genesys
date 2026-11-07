@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "genesys",
+  "versions": [
+    {
+      "commit": "a38edfd0099fc08389e93594bb71f393ba5d18f0",
+      "tag": "",
+      "parsed_at": "2026-11-07T21:35:09.868060+00:00"
+    }
+  ]
+}
