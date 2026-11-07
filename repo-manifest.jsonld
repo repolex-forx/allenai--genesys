@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/genesys/commit/a38edfd0099fc08389e93594bb71f393ba5d18f0",
       "git:hexsha": "a38edfd0099fc08389e93594bb71f393ba5d18f0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/allenai/genesys/commit/c5c84b9fe994e3843c53fff8e44e8347c67ae298",
